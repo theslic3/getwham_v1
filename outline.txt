@@ -1,0 +1,20 @@
+
+Main Menu:
+1) Food Tracker
+2) Weight Tracker
+3) Fitness Tracker
+
+Food Tracker:
+
+1) Add Food. 
+2) Give a daily summary.
+
+if 1:
+- Has this food been added before? 
+    if yes:
+    Type in first three letters.
+    #goes into text files with every 
+    if no:
+    ask for:
+    - protein, carbs, fats per 100g.
+    - ask for any tags (glyemic index, good or bad carb, sweet, fast food, restaurant, )
